@@ -1,4 +1,4 @@
-ask = str(input("what's the weather like today?"))
+ask = str(input("What's the weather like today? (sunny/rainy/cold):"))
 if ask =="sunny":
     print("Wear a t-shirt and sunglasses")
 elif ask =="rainy":
