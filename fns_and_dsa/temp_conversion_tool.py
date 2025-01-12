@@ -1,6 +1,6 @@
 # Define global conversion factors
 FAHRENHEIT_TO_CELSIUS_FACTOR = 5 / 9
-CELSIUS_TO_FAHRENHEIT_FACTOR = 9 / 5  # Correct definition with no extra spaces or characters
+CELSIUS_TO_FAHRENHEIT_FACTOR = 9 / 5  # Make sure this is exactly like this
 
 def convert_to_celsius(fahrenheit):
     """
